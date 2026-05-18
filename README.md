@@ -23,3 +23,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
 </div>
+
+![](https://raw.githubusercontent.com/Pand0xra/Pand0xra/output/github-contribution-grid-snake-dark.svg)
