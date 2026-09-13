@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pand0xra ^^
+<h1 align="center">Hi 👋, I'm Pand0xra ^^ </h1>
 
-I’m currently working on **my Common Core** @ 42 Paris  and learning about **pentesting** ᕕ( ᐛ )ᕗ. 
+<p align="center">
+I’m currently working on <strong> my Common Core </strong> @ 42 Paris  and learning about <strong> pentesting </strong> ᕕ( ᐛ )ᕗ. 
+</p>
 
 
 <br clear="both">
