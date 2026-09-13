@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pand0xra and currently a student @ 42 Paris</h1>
+<h1 align="center">Hi 👋, I'm Pand0xra ^^
 
-- 🔭 I’m currently working on **my Common Core**
+I’m currently working on **my Common Core** @ 42 Paris  and learning about **pentesting** ᕕ( ᐛ )ᕗ. 
 
-- 🌱 Passionate about **Cybersecurity and aiming to work in this field!**
-
-- 👨‍💻 I’m currently learning **about pentesting!**
 
 <br clear="both">
 
