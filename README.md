@@ -4,12 +4,7 @@
 I’m currently working on <strong> my Common Core </strong> @ 42 Paris  and learning about <strong> pentesting </strong> ᕕ( ᐛ )ᕗ. 
 </p>
 
-
 <br clear="both">
-
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pand0xra&theme=catppuccin-mocha&border_radius=5" alt="GitHub Streak" /></a>
-</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
